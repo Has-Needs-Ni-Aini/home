@@ -1,6 +1,6 @@
 # Has-Needs             Ni-Aini
 
-Wiki [https://github.com/Has-Needs-Ni-Aini/home/wiki](Wiki)
+[Wiki](https://github.com/Has-Needs-Ni-Aini/home/wiki)
 # Elevator Pitch:
 Introducing Has-Needs, a groundbreaking platform that empowers individuals and communities to take control of their recovery and resource sharing. Our innovative system leverages blockchain technology and secure identity management to create a decentralized network where users can seamlessly match their needs with available resources. By providing individuals with a personal blockchain and safeguarding their identities, we ensure privacy, trust, and efficient interactions. Join us in revolutionizing disaster management, community empowerment, and commerce.
 
