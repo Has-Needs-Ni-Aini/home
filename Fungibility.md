@@ -8,4 +8,4 @@ It's important to note that while the Has-Needs system allows for the recording 
 
 By avoiding the controversy surrounding value-based tokens and fungible objects, Has-Needs maintains its core mission of empowering individuals and communities, fostering collaboration, and facilitating efficient resource allocation in a transparent and inclusive manner. The system's emphasis on relevance, privacy, and user control ensures that the recording of payment details aligns with the broader goals of the platform, providing a seamless and trusted environment for users to meet their needs and engage in mutually beneficial interactions.
 
-[img:] (https://media.discordapp.net/attachments/999417870259855371/1117272766392041482/omdesign_a_capsule_made_of_semi_transparent_green_glass_holds_s_b105038f-c05d-4eb9-b875-58b9499397ef.png?width=803&height=803 "interaction on the personal chain")
+![img:](https://media.discordapp.net/attachments/999417870259855371/1117272766392041482/omdesign_a_capsule_made_of_semi_transparent_green_glass_holds_s_b105038f-c05d-4eb9-b875-58b9499397ef.png?width=803&height=803 "interaction on the personal chain")
