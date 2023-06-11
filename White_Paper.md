@@ -36,26 +36,27 @@ Introduction
   - Impact and Potential
   - Next Steps and Call to Action
   
-1. Background and Purpose:
-Traditional disaster response systems often treat individuals as less human during their most vulnerable moments. Survivors are excluded from decision-making processes despite the acknowledged need for timely and representative data. Aid workers are discouraged from even mentioning scheduled shipments to avoid raising false hopes, and survivors who have received training or are affiliated with prestigious institutions face skepticism about their reports.
+1. Background and Purpose
 
-Has-Needs changes this by giving participating citizens complete control over their data. Through real-time requests and offers, individuals can directly negotiate and engage in value exchanges. Blockchain technology ensures trust and verification within the network.
+  Traditional disaster response systems often treat individuals as less human during their most vulnerable moments. Survivors are excluded from decision-making processes despite the acknowledged need for timely and representative data. Aid workers are discouraged from even mentioning scheduled shipments to avoid raising false hopes, and survivors who have received training or are affiliated with prestigious institutions face skepticism about their reports.
 
-In practical terms, individuals signed up for the service or with access to a QR code and a feature phone can input their needs, which are then matched with nearby resources. They can also join consensus-based communities, pooling requests and resources while benefiting from geographic anonymity. Potential matches suggested by the system are refined through human intervention, improving accuracy as recovery progresses.
+  Has-Needs changes this by giving participating citizens complete control over their data. Through real-time requests and offers, individuals can directly negotiate and engage in value exchanges. Blockchain technology ensures trust and verification within the network.
 
-Aid agencies, seen as communities with their own needs and resources, greatly benefit from accurate and timely citizen data. By sharing this data, individuals contribute to aid delivery, increasing the chances of an effective response. Collaborative need requests provide critical real-time data previously collected by paid employees. This inclusive approach empowers every person in an affected area to actively participate in their own recovery.
+  In practical terms, individuals signed up for the service or with access to a QR code and a feature phone can input their needs, which are then matched with nearby resources. They can also join consensus-based communities, pooling requests and resources while benefiting from geographic anonymity. Potential matches suggested by the system are refined through human intervention, improving accuracy as recovery progresses.
 
-As more people recognize the extractive nature of government involvement and commercial marketing, they feel disconnected from personal information ownership. Has-Needs fills this gap by providing a secure personal chain that protects and verifies individuals' identities. It serves as a record of their lives, showcasing skills, inviting collaboration, and coordinating disaster logistics.
+  Aid agencies, seen as communities with their own needs and resources, greatly benefit from accurate and timely citizen data. By sharing this data, individuals contribute to aid delivery, increasing the chances of an effective response. Collaborative need requests provide critical real-time data previously collected by paid employees. This inclusive approach empowers every person in an affected area to actively participate in their own recovery.
 
-By leveraging Has-Needs, individuals and communities gain control over their data and interactions. Secure personal chains ensure confidentiality and protection of user data, with encryption and user-controlled data sharing allowing individuals to determine access privileges and safeguard their privacy.
+  As more people recognize the extractive nature of government involvement and commercial marketing, they feel disconnected from personal information ownership. Has-Needs fills this gap by providing a secure personal chain that protects and verifies individuals' identities. It serves as a record of their lives, showcasing skills, inviting collaboration, and coordinating disaster logistics.
 
-A key feature of Has-Needs is the ability for users to disconnect from data repositories and services, granting them sovereignty over their personal information. This empowers users to protect their privacy, disengage from compromised platforms, and prevent unauthorized access.
+  By leveraging Has-Needs, individuals and communities gain control over their data and interactions. Secure personal chains ensure confidentiality and protection of user data, with encryption and user-controlled data sharing allowing individuals to determine access privileges and safeguard their privacy.
 
-Has-Needs enables self-sovereign identity, empowering individuals to drive their own recovery and allocate resources. It facilitates defining needs, connecting with relevant resources, and engaging in interactions that restore dignity and empower communities.
+  A key feature of Has-Needs is the ability for users to disconnect from data repositories and services, granting them sovereignty over their personal information. This empowers users to protect their privacy, disengage from compromised platforms, and prevent unauthorized access.
 
-Efficient interactions and value exchange are achieved through location-based relevance and resource matching. Users can easily connect with nearby offerings that meet their specific needs, fostering genuine connections. Has-Needs disrupts traditional marketing practices by facilitating authentic connections between vendors and customers based on verified credibility and real needs.
+  Has-Needs enables self-sovereign identity, empowering individuals to drive their own recovery and allocate resources. It facilitates defining needs, connecting with relevant resources, and engaging in interactions that restore dignity and empower communities.
 
-The implementation of Has-Needs relies on a strong technical architecture that ensures data security, interoperability, and privacy enhancements. The system is designed to be scalable, reliable, and adaptable for various real-world applications, such as crisis response, refugee support, and community development.
+  Efficient interactions and value exchange are achieved through location-based relevance and resource matching. Users can easily connect with nearby offerings that meet their specific needs, fostering genuine connections. Has-Needs disrupts traditional marketing practices by facilitating authentic connections between vendors and customers based on verified credibility and real needs.
+
+  The implementation of Has-Needs relies on a strong technical architecture that ensures data security, interoperability, and privacy enhancements. The system is designed to be scalable, reliable, and adaptable for various real-world applications, such as crisis response, refugee support, and community development.
 
 2. Secure Personal Chains: Protecting User Data
 
