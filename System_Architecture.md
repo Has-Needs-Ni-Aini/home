@@ -15,3 +15,52 @@ The architecture is designed to ensure scalability, reliability, and security wh
 **Infrastructure and Deployment:** The infrastructure layer encompasses the hardware and software components required to host and deploy the Has-Needs system. It includes servers, cloud infrastructure, networking, and monitoring tools. Scalability, high availability, and disaster recovery considerations are taken into account to ensure a reliable and responsive platform.
 
 The overall system architecture of Has-Needs is designed to provide a robust, scalable, and secure platform for empowering individuals, communities, and organizations. It leverages cutting-edge technologies, such as blockchain and secure messaging, to facilitate transparent interactions, resource allocation, and collaboration. The architecture supports the core functionalities of the system while ensuring user privacy, data integrity, and seamless integration with external services.
+
+       +-------------------------------------+
+       |            Has-Needs System           |
+       +-------------------------------------+
+                   |                ^
+                   |                |
+       +-----------v------------+   |
+       |                        |   |
+       |     Identity Alias     |   |
+       |                        |   |
+       +-----------+------------+   |
+                   |                |
+                   |                |
+       +-----------v------------+   |
+       |                        |   |
+       |   Personal Wallet       |   |
+       |                        |   |
+       +-----------+------------+   |
+                   |                |
+                   |                |
+       +-----------v------------+   |
+       |                        |   |
+       |  Protected Location    |   |
+       |                        |   |
+       +-----------+------------+   |
+                   |                |
+                   |                |
+       +-----------v------------+   |
+       |                        |   |
+       |  Interaction and       |   |
+       |  Resource Discovery    |   |
+       |                        |   |
+       +-----------+------------+   |
+                   |                |
+                   |                |
+       +-----------v------------+   |
+       |                        |   |
+       | Categorization and     |   |
+       | Definition Correlation |   |
+       |                        |   |
+       +-----------+------------+   |
+                   |                |
+                   |                |
+       +-----------v------------+   |
+       |                        |   |
+       |   Blockchain Network   |   |
+       |   (Public Verification)|   |
+       |                        |   |
+       +------------------------+---+
