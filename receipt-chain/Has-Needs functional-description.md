@@ -4,22 +4,18 @@ Status:
 
 Tags: [[Has-Needs]]
 
-#Has-Needs
+# Has-Needs
 
 
 ## Has-Needs
 
-there's not really a difference between being able to read metrics on governance or personal blockchain interactions, but the civic channel is special in that it is exposed because it involves taxpayer financing. As an exposed stream, there must be some safeguards. No personally identifiable information is involved. Just whole numbers, objective was met or not. All the rest is derived from that. Seasonality, or any other biophysical effect can be discovered by comparison.
+### The system has two main entities:
 
-There are individual sovereign entities, and there are groups of entities that add new members by consensus, called a Community. Each individual and each community have an ongoing list of "Needs" in the form of an eUTXO, and the list of "Has" in the form of an NFT built on the policy of the originator and it is a representation of the service or good being offered, with details in the metadata. Each of these two entities and their respective two types of data are matched in a preliminary manner, the offered to the original poster as possible matches. Based on the user choices, the Learning Model is then refined.
+1. **Individuals**: These are individual sovereign humans with their own "Needs" (represented as eUTXOs) and resources "Has" (represented as NFTs). Individuals manage their own blockchain that contains their personal outputs, executed Smart Contracts with associated messages, official documents like Medical Records, Passport, Deed or Title, and Will.
 
-The system would have two main components:
+2. **Community**: Collection of Individuals that add new members by consensus. Members of a Community can designate items to be pooled and represented as a Community "Need" (eUTXO) or resource (NFT). 
 
-1. **Individual Entities**: These are individual sovereign entities with their own needs (represented as eUTXOs) and resources (represented as NFTs). The complexity arises from the dynamic nature of these entities' needs and resources, which can change over time based on various factors.
-
-2. **Communities**: These are groups of entities that add new members by consensus, represented as a Community eUTXO. Each community has its own set of needs (represented as an NFT) and resources (represented as another NFT). The complexity in this case comes from the dynamic nature of communities' needs and resources, which can change based on various factors such as new members joining or leaving the community, changes in community policies, etc.
-
-To ensure consistency across different nodes in the network, you could use state-of-the-graph consensus models like Tangle (IOTA) or Directed Acyclic Graphs (DAG), which are designed to handle complex relationships between entities more efficiently than traditional blockchain platforms. Alternatively, if none of the existing platforms meet all your requirements, you could implement a custom solution using state-of-the-graph consensus models and distributed graph databases like Neo4j or Amazon Neptune.
+To ensure consistency across different nodes in the network, state-of-the-graph consensus models like Tangle (IOTA) or Directed Acyclic Graphs (DAG) are used, which are designed to handle complex relationships between entities more efficiently than traditional blockchain platforms. Alternatively, if none of the existing platforms meet all your requirements, you could implement a custom solution using state-of-the-graph consensus models and distributed graph databases like Neo4j or Amazon Neptune.
 
 For interoperability with other systems, consider implementing protocols like Polkadot's parachains or Cosmos's independent, parallel blockchains that can communicate and exchange value with one another. This would enable seamless interaction between different networks while maintaining the state-of-the-graph consistency within Has Needs.
 
